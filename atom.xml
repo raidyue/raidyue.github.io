@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://raidyue.github.io</id>
+    <title>My Blog</title>
+    <updated>2020-06-29T02:27:13.268Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://raidyue.github.io"/>
+    <link rel="self" href="https://raidyue.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://raidyue.github.io/images/avatar.png</logo>
+    <icon>https://raidyue.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, My Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[just demo]]></title>
+        <id>https://raidyue.github.io/post/just-demo/</id>
+        <link href="https://raidyue.github.io/post/just-demo/">
+        </link>
+        <updated>2019-04-26T01:43:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="just-demo">just demo</h1>
+<figure data-type="image" tabindex="1"><img src="https://raidyue.github.io/post-images/1556243079290.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
